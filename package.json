@@ -1,0 +1,23 @@
+{
+  "name": "rsschool-markup-2018q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch styles -o ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-Mary/rsschool-markup-2018q3.git"
+  },
+  "author": "Shklovskaya Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-Mary/rsschool-markup-2018q3/issues"
+  },
+  "homepage": "https://github.com/happy-Mary/rsschool-markup-2018q3#readme",
+  "dependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
